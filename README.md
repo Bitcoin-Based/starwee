@@ -1,2 +1,7 @@
 # starwee
-is a pan-European provider of integrated IT infrastructure and software development and integration services for businesses that need to move to web2-5 technologies to increase revenue
+Starwee is an intermediary between the world of old technologies and new business innovations. We transform:
+
+- from paper to code,
+- from web2 to web3,
+- from fiat currency to bitcoin.
+
