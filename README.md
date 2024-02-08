@@ -36,8 +36,10 @@ Experience STARWEE through a browser-based environment, designed for users to ex
 🛡️ **Robust Security:** Strong encryption and secure key management.
 
 
-### More Information
-For detailed insights into STARWEE's business model, market analysis, and technical descriptions, additional resources are available for those interested in diving deeper into its ecosystem.
+### More details, please follow the links:
+Business model
+Market analysis
+[Technical descriptions](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/doc/BOB%20v0.1.2.pdf)
 
 ---
 
