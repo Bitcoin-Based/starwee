@@ -3,7 +3,7 @@
 # STARWEE: Bitcoin Organization Builder (BoB v0.1.2)
 
 2024/828380  
-**Contact:** @tetakta  
+@tetakta  
 
 ---
 
