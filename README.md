@@ -2,7 +2,7 @@
 
 # STARWEE: Bitcoin Organization Builder (BoB v0.1.2)
 
-**Release:** 01.2024/828380  
+2024/828380  
 **Contact:** @tetakta  
 
 ---
