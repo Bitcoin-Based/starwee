@@ -22,7 +22,9 @@ Experience STARWEE through a browser-based environment, designed for users to ex
 ### Key Features
 - **Automated Bitcoin Transactions:** Script automation for simplified transactions.
 - **Mainnet Integration:** Direct, secure blockchain transactions.
-- 🔑 **Master Key Functionality:** Superior control and security.
+  
+🔑 **Master Key Functionality:** Superior control and security.
+
 - **Simple Bitcoin Scripting:** Intuitive script creation and management.
 - **Future DLC Integration:** For advanced scripting capabilities.
 - **User Experience:** Streamlined and adaptable interface.
