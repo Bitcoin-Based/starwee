@@ -1,4 +1,4 @@
-![image](https://github.com/tetakta/tetakta/blob/main/img/STARWEE%20%E2%9A%A1%EF%B8%8F%2011.png)
+![image](https://github.com/tetakta/tetakta/blob/main/img/STARWEE%20%E2%9A%A1%EF%B8%8F.png) 
 
 # STARWEE: Bitcoin Organization Builder (BoB v0.1.2)
 
