@@ -12,9 +12,13 @@
 
 ### What is STARWEE?
 STARWEE is a platform engineered to streamline Bitcoin transactions within organizations. It's your script-driven organizational finance app that simplifies Bitcoin transactions, making them accessible and automated for businesses. STARWEE's interface allows for easy programming and execution of Bitcoin transactions, offering a new level of efficiency in financial operations.
+![image](https://github.com/Bitcoin-Based/starwee/blob/main/res/ui/desktop-app/main-dashboard/scheme%20%2B%20tm.png)
+
 
 ### Under the Hood
 STARWEE operates on the Bitcoin mainnet, utilizing simple Bitcoin scripts and a master key concept for enhanced security. Future updates aim to introduce Discreet Log Contracts (DLCs) for more intricate scripting possibilities.
+![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/blueprints/BoB%20btc%20scripts.png)
+
 
 ### Try STARWEE
 Experience STARWEE through a browser-based environment, designed for users to explore its functionalities. Engage with Bitcoin transaction scripting, master key features, and get a practical introduction to the platform.
