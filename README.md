@@ -20,15 +20,21 @@ STARWEE operates on the Bitcoin mainnet, utilizing simple Bitcoin scripts and a 
 Experience STARWEE through a browser-based environment, designed for users to explore its functionalities. Engage with Bitcoin transaction scripting, master key features, and get a practical introduction to the platform.
 
 ### Key Features
-- **Automated Bitcoin Transactions:** Script automation for simplified transactions.
-- **Mainnet Integration:** Direct, secure blockchain transactions.
-  
+
+💻 **Automated Bitcoin Transactions:** Script automation for simplified transactions.
+
+🔗 **Mainnet Integration:** Direct, secure blockchain transactions.
+
 🔑 **Master Key Functionality:** Superior control and security.
 
-- **Simple Bitcoin Scripting:** Intuitive script creation and management.
-- **Future DLC Integration:** For advanced scripting capabilities.
-- **User Experience:** Streamlined and adaptable interface.
-- 🛡️ **Robust Security:** Strong encryption and secure key management.
+✍️ **Simple Bitcoin Scripting:** Intuitive script creation and management.
+
+🚀 **Future DLC Integration:** For advanced scripting capabilities.
+
+🌐 **User Experience:** Streamlined and adaptable interface.
+
+🛡️ **Robust Security:** Strong encryption and secure key management.
+
 
 ### More Information
 For detailed insights into STARWEE's business model, market analysis, and technical descriptions, additional resources are available for those interested in diving deeper into its ecosystem.
