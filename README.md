@@ -2,7 +2,7 @@
 
 # STARWEE: Bitcoin Organization Builder (BoB v0.1.2)
 
-2024/828380  
+2024  
 @tetakta  
 
 ---
@@ -16,7 +16,7 @@ STARWEE is a platform engineered to streamline Bitcoin transactions within organ
 
 
 ### Under the Hood
-STARWEE operates on the Bitcoin mainnet, utilizing simple Bitcoin scripts and a master key concept for enhanced security. Future updates aim to introduce Discreet Log Contracts (DLCs) for more intricate scripting possibilities.
+STARWEE operates on the Bitcoin mainnet, utilizing simple Bitcoin scripts and a master key concept for enhanced security.
 ![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/blueprints/BoB%20btc%20scripts.png)
 
 
@@ -27,13 +27,13 @@ Experience STARWEE through a browser-based environment, designed for users to ex
 
 💻 **Automated Bitcoin Transactions:** Script automation for simplified transactions.
 
-🔗 **Mainnet Integration:** Direct, secure blockchain transactions.
+🔗 **Mainnet Integration:** Direct, secure Bitcoin transactions.
 
 🔑 **Master Key Functionality:** Superior control and security.
 
 ✍️ **Simple Bitcoin Scripting:** Intuitive script creation and management.
 
-🚀 **Future DLC Integration:** For advanced scripting capabilities.
+🚀 **Future ECash Integration:** For advanced scripting capabilities.
 
 🌐 **User Experience:** Streamlined and adaptable interface.
 
